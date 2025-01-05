@@ -15,11 +15,14 @@ A simple note taking app developed using java.
 
 ## Screenshots
 
-Home Screen 
-![home screen](./screenshots/1658857152507.jpg)
+Home Screen
+
+<img src="./screenshots/1658857152507.jpg" width=300 />
 
 Edit Note Screen
-![edit note screen](./screenshots/1658857152546.jpg)
+
+<img src="./screenshots/1658857152546.jpg" width=300 />
 
 Search Note Screen
-![search note screen](./screenshots/1658857152574.jpg)
+
+<img src="./screenshots/1658857152574.jpg" width=300 />
